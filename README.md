@@ -4,8 +4,11 @@
 
 
 
+
 # 💫 About Me:
-# Hi, I'm Gnaneswar Arnepalli 👋<br><br>I'm a passionate Full Stack Developer with experience in AWS and Machine Learning. I enjoy building scalable web applications using React, TypeScript, and various backend languages and databases.<br>
+# Hi, I'm Gnaneswar Arnepalli 👋<br>
+<h3 align="center">DESIGNER & DEVELOPER</h3>
+<br>I'm a passionate Full Stack Developer with experience in AWS and Machine Learning. I enjoy building scalable web applications using React, TypeScript, and various backend languages and databases.<br>
 
 
 ## 🌐 Socials:
