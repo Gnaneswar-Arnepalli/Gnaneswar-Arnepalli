@@ -30,7 +30,7 @@
 [![](https://visitcount.itsvg.in/api?id=Gnaneswar-Arnepalli&icon=0&color=5)](https://visitcount.itsvg.in)
 
 
-<br> ## 🚀 Skills<br><br>Frontend: React.js, TypeScript(Basics), Material UI, JavaScript,HTML, CSS.<br>Backend: SQL,Node.js, Express.js(Basics).<br>Programming: C, Java, Python.<br>Machine Learning: Scikit-learn, AI Model Integration.<br>Cloud (Practical) : AWS (EC2, S3).<br>Salesforce CRM: Workflows, Visualforce.<br>Tools: Git, VS Code, XAMPP, Postman API.<br>Soft Skills: Problem-Solving, Creativity, Team Leadership, Flexibility<br><br>Experince:<br>Salesforce Virtual Internship (2023):<br>● Developed and customized Salesforce applications using Apex, Visualforce, and<br>Lightning. components Implemented workflows, validation rules, and custom objects to<br>streamline processes.<br>Team Leader English Lab, Lendi Institute of Engineering and Technology (2021-2023):<br>● Led 12-member team in organizing weekly language activities.<br>● Improved lab participation by 40% through effective task delegation.<br>
+<br> ## <br>Experince:<br>Salesforce Virtual Internship (2023):<br>● Developed and customized Salesforce applications using Apex, Visualforce, and<br>Lightning. components Implemented workflows, validation rules, and custom objects to<br>streamline processes.<br>Team Leader English Lab, Lendi Institute of Engineering and Technology (2021-2023):<br>● Led 12-member team in organizing weekly language activities.<br>● Improved lab participation by 40% through effective task delegation.<br>
 
 
 <br>EDUCATION<br>Lendi Institute of Engineering and Technology 2021 - Present<br>B.Tech, Computer Science and Engineering 7.9 CGPA<br>Narayana Junior College, Bobbili 2019 - 2021
